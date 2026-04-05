@@ -1,1 +1,1 @@
-https://github.com/KSup-Lee/MazeGame/app-ads.txt
+https://admob.google.com/v2/apps/list?onboardingTaskStep=FIRST_APP_LINK
